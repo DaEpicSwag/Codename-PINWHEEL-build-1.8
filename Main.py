@@ -19,7 +19,6 @@ buys = []
 
 
 
-
 def checkcookiees():
   req = requests.Session()
   cookiefilefolder = os.path.dirname(__file__)
