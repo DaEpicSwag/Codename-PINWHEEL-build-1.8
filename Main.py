@@ -220,7 +220,6 @@ elif guffyguppy == "5":
   botwithcookies()
 
 elif guffyguppy == "6":
-  from dhooks import Webhook
   webtonuke = input ("Webhook to spam: ")
   hook = Webhook(webtonuke)
   while True:
