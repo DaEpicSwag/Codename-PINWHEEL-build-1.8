@@ -13,4 +13,4 @@ Add ur cookies and proxies afterwards and remmber to check the cookies before us
 # Feedback/ Contact
 I make cool things in python, feel free to ask or just give some feedback!
 Discord: SonicTheHedHog#1939
-Twitter: @SimpleSkyGuy
+
