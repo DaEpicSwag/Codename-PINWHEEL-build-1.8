@@ -15,5 +15,5 @@ pip install dhooks
 Add ur cookies and proxies afterwards and remmber to check the cookies before using them (cookie checker included)!!! :D
 # Feedback/ Contact
 I make cool things in python, feel free to ask or just give some feedback!
-Discord: SonicTheHedHog#1939
+Discord: SonicTheHedHog#0001
 
