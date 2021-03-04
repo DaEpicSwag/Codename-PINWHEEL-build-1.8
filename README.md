@@ -1,4 +1,5 @@
 # Status
+Half of the stuff is broken. 
 This project is most likley discontinued becuase im lazy and I hate the idea already, but if you want any ill make em for like 5 bucks
 # Codename-PINWHEEL-build-1.8
 --Just a project im working on, like a multitool with some pretty neat features; 4 so far! Im feeling good about this project, its pretty cool just I need some ideas. Planned price is 2 dollars and this is gonna go private on release. Ill keep this updated every weeks or so, just keep an eye out on new and updated features.-- I hope it works and doesnt crash. !!!REMEMBER!!! REPOSTING THIS AND CLAIMING AS YOUR OWN DOESNT MAKE YOU A PROGRAMMER!!!
